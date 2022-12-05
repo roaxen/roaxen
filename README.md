@@ -1,6 +1,45 @@
 
 
 ### Hi there 👋
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px  black;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1>The table element</h1>
+
+<table>
+  <tr>
+    <th>Programming Languages</th>
+    <th>Frontend Development</th>
+    <th>Mobile App Development</th>
+  </tr>
+  <tr>
+    <td>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"height="40" /> 
+    </td>
+    <td style=''>
+    
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </td>
+    
+    <td>
+    
+    </td>
+  </tr>
+ 
+</table>
+
+</body>
+</html>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
