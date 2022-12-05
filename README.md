@@ -1,16 +1,13 @@
 
 
 ### Hi there 👋
-<html>
-<head>
+
 <style>
 table, th, td {
   border: 1px  black;
   text-align: center;
 }
 </style>
-</head>
-<body>
 
 <h1>The table element</h1>
 
@@ -37,9 +34,6 @@ table, th, td {
   </tr>
  
 </table>
-
-</body>
-</html>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
