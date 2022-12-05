@@ -11,7 +11,7 @@ table, th, td {
 
 <h1>The table element</h1>
 
-<table>
+<table style = "text-align: center;">
   <tr>
     <th>Programming Languages</th>
     <th>Frontend Development</th>
