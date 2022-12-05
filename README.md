@@ -5,7 +5,7 @@
 
 <h1>The table element</h1>
 
-<table ">
+<table>
   <tr>
     <th>Programming Languages</th>
     <th>Frontend Development</th>
