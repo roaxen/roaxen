@@ -29,7 +29,7 @@
   </tr>
  
 </table>
-
+<!--
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
