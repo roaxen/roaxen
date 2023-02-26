@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-| Nombre | Edad | País      |
+| Nombre                               | Edad                                    | País      |
 | ------ | ---: | ---------:|
 | Juan   | 28   | México    |
 | Ana    | 35   | España    |
