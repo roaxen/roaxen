@@ -1,9 +1,21 @@
 
 
 ### Hi there 👋
-| Nombre                               | Edad | País      |
-| ------                               | ---: | ---------:|
-| Juan                                 | 28   | México    |
+
+| Columna 1 | Columna 2 | Columna 3 |
+| --------- | --------- | --------- |
+| Celda 1-1 | Celda 1-2 | Celda 1-3 |
+| Celda 2-1 | Celda 2-2 | Celda 2-3 |
+
+<style>
+table {
+  width: 100%;
+}
+
+th, td {
+  width: 33.33%;
+}
+</style>
 
 <h1>The table element</h1>
 
