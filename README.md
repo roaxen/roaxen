@@ -1,7 +1,11 @@
 
 
 ### Hi there 👋
-
+| Nombre | Edad | País      |
+| ------ | ---: | ---------:|
+| Juan   | 28   | México    |
+| Ana    | 35   | España    |
+| Tomás  | 42   | Argentina |
 
 <h1>The table element</h1>
 
@@ -29,8 +33,4 @@
   </tr>
  
 </table>
-| Nombre | Edad | País |
-| ------ | ---  | ---- |
-| Juan   | 28   | México |
-| Ana    | 35   | España |
-| Tomás  | 42   | Argentina |
+
