@@ -11,27 +11,23 @@
     <th>Frontend Development</th>
     <th>Mobile App Development</th>
   </tr>
+  
   <tr> 
-    <th>     <!-- Programming Languages-->
-       
-               
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"height="40" /> 
-    </th>
+    <td> <!-- Programming Languages-->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"height="40" /> 
+    </td>
     
-   <th>     <!-- Programming Languages-->
-       
-                style="text-align: center;
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"height="40" /> 
-    </th>
- 
-     <th>     <!-- Programming Languages-->
-       
-                style="text-align: center;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"height="40" /> 
-    </th>
-  </tr>
+    <td> <!-- Programming Languages-->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"height="40" /> 
+    </td>
+    
+    <td> <!-- Programming Languages-->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"height="40" /> 
+    </td>
+   </tr>
+    
 </table>
 
