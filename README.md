@@ -11,11 +11,8 @@
   <thead>
     <tr>
       <th>Lenguajes de programación</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
     </tr>
+    
   </thead>
   <tbody>
     <tr>
