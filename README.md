@@ -32,6 +32,39 @@
   </tbody>
 </table>
 
+<table>
+  <tr>
+    <td>Desarrollo móvil</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="50" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="40"></td>
+  </tr>
+  <tr>
+    <td>Android</td>
+    <td>Kotlin</td>
+    <td>Flutter</td>
+    <td>Dart</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Desarrollo web</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="40"></td>
+  </tr>
+  <tr>
+    <td>HTML5</td>
+    <td>CSS3</td>
+    <td>PHP</td>
+  </tr>
+</table>
 
 
 <table>
