@@ -1,40 +1,17 @@
 
 
 ### Hi there 👋
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Mi tabla de lenguajes de programación</title>
-    <style>
-      table {
-        border-collapse: collapse;
-        margin: 20px;
-        font-size: 16px;
-      }
 
-      table,
-      th,
-      td {
-        border: 1px solid black;
-      }
-
-      th,
-      td {
-        padding: 10px;
-        text-align: center;
-      }
-
-      th {
-        background-color: #f2f2f2;
-      }
-    </style>
-  </head>
-<body>
 <h1>The table element</h1>
 
 <h3> Lenguajes de programación </h3>
 
 <table>
+  <style>
+  table {
+    background-color: white;
+  }
+</style>
   <thead>
     <tr>
       <th>Lenguajes de programación</th>
@@ -110,4 +87,4 @@
     <td>Cassandra</td>
   </tr>
 </table>
-</body>
+
