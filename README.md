@@ -23,11 +23,9 @@
     </tr>
   </tbody>
 </table>
-
+<h3> Desarrollo móvil </h3>
 <table>
-  <tr>
-    <td>Desarrollo móvil</td>
-  </tr>
+  
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" height="40"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50" height="40"></td>
@@ -41,11 +39,9 @@
     <td>Dart</td>
   </tr>
 </table>
+<h3> Desarrollo web </h3>
 
 <table>
-  <tr>
-    <td>Desarrollo web</td>
-  </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="40"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="40"></td>
@@ -57,12 +53,9 @@
     <td>PHP</td>
   </tr>
 </table>
-
+<h3> Base de datos</h3>
 <table>
-  <tr>
-    <th>Base de datos</th>
-   
-  </tr>
+
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="40"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="40"></td>
