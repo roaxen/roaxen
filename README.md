@@ -6,11 +6,6 @@
 
 <h3> Lenguajes de programación </h3>
 <table>
-  <thead>
-    <tr>
-      <th>Lenguajes de programación</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="40"></td>
