@@ -23,7 +23,7 @@
     </tr>
   </tbody>
 </table>
-<h3> Desarrollo móvil </h3>
+<h3> Lenguajes Desarrollo móvil </h3>
 <table>
   
   <tr>
@@ -39,7 +39,7 @@
     <td>Dart</td>
   </tr>
 </table>
-<h3> Desarrollo web </h3>
+<h3> Lenguajes Desarrollo web </h3>
 
 <table>
   <tr>
@@ -53,7 +53,7 @@
     <td>PHP</td>
   </tr>
 </table>
-<h3> Base de datos</h3>
+<h3> Lenguajes Base de datos</h3>
 <table>
 
   <tr>
