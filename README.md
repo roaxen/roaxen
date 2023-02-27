@@ -7,11 +7,7 @@
 <h3> Lenguajes de programación </h3>
 
 <table>
-  <style>
-  table {
-    background-color: white;
-  }
-</style>
+  
   <thead>
     <tr>
       <th>Lenguajes de programación</th>
