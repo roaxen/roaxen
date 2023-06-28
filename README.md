@@ -14,10 +14,11 @@
 </p>
 
 ## ▪Bootcamp C# & .NET
-under construction :construction: 	:hammer:
+[C#]()under construction :construction: 	:hammer:
+[.NET]()under construction :construction: 	:hammer:
+<h3>Final Project</h3>
 
 ## ▪️ See my 42cursus progress ↙️ 
-
 [42cursus]()  under construction :construction: 	:hammer:
 
 
