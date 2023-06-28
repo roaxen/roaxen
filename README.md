@@ -19,7 +19,7 @@
 <h3>Final Project</h3>
 
 ## ▪️ See my 42cursus progress ↙️ 
-[42cursus]()  under construction :construction: 	:hammer:
+[42cursus](https://github.com/roaxen/42_Info)  under construction :construction: 	:hammer:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roaxen&layout=compact&theme=github_dark)
