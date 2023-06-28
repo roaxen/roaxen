@@ -14,8 +14,8 @@
 </p>
 
 ## ▪Bootcamp C# & .NET
-[C#]()under construction :construction: 	:hammer:
-[.NET]()under construction :construction: 	:hammer:
+[C#]() under construction :construction: 	:hammer:
+[.NET]() under construction :construction: 	:hammer:
 <h3>Final Project</h3>
 
 ## ▪️ See my 42cursus progress ↙️ 
